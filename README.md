@@ -1,2 +1,1 @@
-My first readme
-coding for a living
+Life of a software developer
